@@ -1,0 +1,6 @@
+Documentation
+
+This is the documentation for the Supermarket System Project
+Here, I will be documenting all the progress the project makes (mark the time and date too)
+
+Let's dive into it! 
